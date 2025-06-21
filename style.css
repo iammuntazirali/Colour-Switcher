@@ -1,7 +1,7 @@
-html {
+html,
+body {
     margin: 0;
 }
-
 span {
     display: block;
     border-radius: 10%;
